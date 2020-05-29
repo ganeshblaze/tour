@@ -1,0 +1,1 @@
+{"errors":[{"message":"maxWidth has to be a positive int larger than zero (> 0), now it's 0","locations":[{"line":12,"column":7}],"path":["main","childImageSharp","fluid"]}],"data":{"main":{"childImageSharp":{"fluid":null}}}}

@@ -1,0 +1,1 @@
+{"errors":[{"message":"Expected positive integer for height but received NaN of type number","locations":[{"line":12,"column":7}],"path":["main","childImageSharp","fluid"]}],"data":{"main":{"childImageSharp":{"fluid":null}}}}
